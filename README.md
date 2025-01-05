@@ -3,7 +3,7 @@
 - Sempre querendo melhorar minhas técnicas no front-end. 🧠
 - Atualmente estudo: HTML5, CSS3, JavaScript, Typescript e também frameworks, como Angular.
 
-<!- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakamushia&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakamushia&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
