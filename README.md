@@ -1,7 +1,6 @@
 ## Olá! Sou o Rafael.
 
-- Sempre procurando melhorar minhas técnicas no front-end.
-- Atualmente estudando HTML5, CSS3, SASS, JavaScript, Typescript e também frameworks, como Angular.
+- Atualmente estudando HTML5, CSS3, SASS, JavaScript, Typescript e Angular.
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakamushia&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
