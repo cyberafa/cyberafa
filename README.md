@@ -1,6 +1,6 @@
 ## Olá! Sou o Rafael.
 
-- Atualmente estudando HTML5, CSS3, SASS, JavaScript, Typescript e Angular.
+- Atualmente focado em me aperfeiçoar e criar aplicações práticas e eficientes usando `HTML5`, `CSS3`, `SASS`, `JavaScript`, `TypeScript` e `Angular`.
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakamushia&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
