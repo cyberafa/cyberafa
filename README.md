@@ -1,4 +1,4 @@
-## Olá! Sou o Rafael.
+## Olá! Sou o Rafael. Bem vindo ao meu perfil do Github!
 
 - Atualmente focado em me aperfeiçoar e criar aplicações práticas e eficientes usando `HTML5`, `CSS3`, `SASS`, `JavaScript`, `TypeScript` e `Angular`.
 
