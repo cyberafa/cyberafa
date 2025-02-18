@@ -21,4 +21,4 @@
   <a href = "mailto:rafaelwayv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
-<a href="https://github.com/cyberafa/cyberafa/blob/main/en-README.md">Leia isso em inglês</a>
+<a href="https://github.com/cyberafa/cyberafa/blob/main/en-README.md">Read this in english</a>
