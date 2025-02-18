@@ -1,7 +1,7 @@
 ## Olá! Sou o Rafael. Bem vindo ao meu perfil do Github!
 
-- Desenvolvedor Front-end
-- Atualmente focado em me aperfeiçoar e criar aplicações práticas e eficientes usando `Angular`, `React`, `Java` `JavaScript`, `TypeScript`, `HTML5` e `CSS3`,
+- Desenvolvedor Front-end.
+- Atualmente focado em me aperfeiçoar e criar aplicações práticas e eficientes usando `Angular`, `React`, `Java` `JavaScript`, `TypeScript`, `HTML5` e `CSS3`.
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakamushia&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
